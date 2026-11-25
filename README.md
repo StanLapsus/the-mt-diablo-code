@@ -1,6 +1,6 @@
 # The Mt. Diablo Code
 
-**An investigation of the Zodiac Killer's 32-symbol cipher and Mt. Diablo map, by Sayan Mandal**
+**An investigation of the Zodiac Killer's 32-symbol cipher and Mt. Diablo map**
 
 📄 **Read the report:** [The_Mt_Diablo_Code_Investigation.pdf](The_Mt_Diablo_Code_Investigation.pdf) (23 pages, illustrated)
 
@@ -73,5 +73,3 @@ Zodiac letters and drawings (1969–70); FBI Vault "Zodiac Killer" file; USGS 7.
 GitHub: [@stanlapsus](https://github.com/stanlapsus) · Email: sayanmandal297@gmail.com
 
 If you quote or share any part of this work, please credit the author.
-
-© 2026 Sayan Mandal. All rights reserved.
